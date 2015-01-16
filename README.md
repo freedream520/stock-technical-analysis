@@ -1,4 +1,4 @@
-technical-analysis
+stock-technical-analysis
 ==================
 
 用pandas來輔助做stock technical-analysis  
